@@ -1,0 +1,4 @@
+- [English](privacy_policy_en.md)
+- [日本語](privacy_policy_ja.md)
+- [한국어](privacy_policy_ko.md)
+- [中分](privacy_policy_ch.md)
